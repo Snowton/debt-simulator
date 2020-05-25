@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/debt-simulator/static/css/main.c960938c.chunk.css",
+    "main.js": "/debt-simulator/static/js/main.6a135f04.chunk.js",
+    "main.js.map": "/debt-simulator/static/js/main.6a135f04.chunk.js.map",
+    "runtime-main.js": "/debt-simulator/static/js/runtime-main.baa2fd18.js",
+    "runtime-main.js.map": "/debt-simulator/static/js/runtime-main.baa2fd18.js.map",
+    "static/js/2.dfe39afb.chunk.js": "/debt-simulator/static/js/2.dfe39afb.chunk.js",
+    "static/js/2.dfe39afb.chunk.js.map": "/debt-simulator/static/js/2.dfe39afb.chunk.js.map",
+    "index.html": "/debt-simulator/index.html",
+    "precache-manifest.c27fdba1b88146cc2c7815b39f440ef7.js": "/debt-simulator/precache-manifest.c27fdba1b88146cc2c7815b39f440ef7.js",
+    "service-worker.js": "/debt-simulator/service-worker.js",
+    "static/css/main.c960938c.chunk.css.map": "/debt-simulator/static/css/main.c960938c.chunk.css.map",
+    "static/js/2.dfe39afb.chunk.js.LICENSE.txt": "/debt-simulator/static/js/2.dfe39afb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baa2fd18.js",
+    "static/js/2.dfe39afb.chunk.js",
+    "static/css/main.c960938c.chunk.css",
+    "static/js/main.6a135f04.chunk.js"
+  ]
+}
