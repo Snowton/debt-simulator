@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/debt-simulator/static/css/main.ca25c678.chunk.css",
+    "main.css": "/debt-simulator/static/css/main.6279183e.chunk.css",
     "main.js": "/debt-simulator/static/js/main.b874b479.chunk.js",
     "main.js.map": "/debt-simulator/static/js/main.b874b479.chunk.js.map",
     "runtime-main.js": "/debt-simulator/static/js/runtime-main.c9a28880.js",
@@ -8,15 +8,15 @@
     "static/js/2.f3855285.chunk.js": "/debt-simulator/static/js/2.f3855285.chunk.js",
     "static/js/2.f3855285.chunk.js.map": "/debt-simulator/static/js/2.f3855285.chunk.js.map",
     "index.html": "/debt-simulator/index.html",
-    "precache-manifest.25ba36be940577f4a1bccc25143b1be4.js": "/debt-simulator/precache-manifest.25ba36be940577f4a1bccc25143b1be4.js",
+    "precache-manifest.a081d7818e8651554f912eb73dea4424.js": "/debt-simulator/precache-manifest.a081d7818e8651554f912eb73dea4424.js",
     "service-worker.js": "/debt-simulator/service-worker.js",
-    "static/css/main.ca25c678.chunk.css.map": "/debt-simulator/static/css/main.ca25c678.chunk.css.map",
+    "static/css/main.6279183e.chunk.css.map": "/debt-simulator/static/css/main.6279183e.chunk.css.map",
     "static/js/2.f3855285.chunk.js.LICENSE.txt": "/debt-simulator/static/js/2.f3855285.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9a28880.js",
     "static/js/2.f3855285.chunk.js",
-    "static/css/main.ca25c678.chunk.css",
+    "static/css/main.6279183e.chunk.css",
     "static/js/main.b874b479.chunk.js"
   ]
 }
