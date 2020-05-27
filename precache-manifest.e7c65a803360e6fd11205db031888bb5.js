@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "303d1fc1bb5c65bccf704c2c2cb4cd36",
+    "revision": "165ff5715a788da857ffc6586c674b84",
     "url": "/debt-simulator/index.html"
   },
   {
-    "revision": "854a363f0a2ebadafd65",
+    "revision": "878eb3960db0de375b5f",
     "url": "/debt-simulator/static/css/main.6279183e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/debt-simulator/static/js/2.f3855285.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "854a363f0a2ebadafd65",
-    "url": "/debt-simulator/static/js/main.84161a31.chunk.js"
+    "revision": "878eb3960db0de375b5f",
+    "url": "/debt-simulator/static/js/main.29fceb72.chunk.js"
   },
   {
     "revision": "da17b5b870bcaf265d3e",
